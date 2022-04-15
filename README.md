@@ -1,2 +1,2 @@
-# cdn
-images cdn
+# CDN
+My Images CDN
